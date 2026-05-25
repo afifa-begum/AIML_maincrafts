@@ -1,0 +1,6 @@
+Model Performance Comparison
+| Model                   | RMSE | R² Score | Performance                               |
+| ----------------------- | ---- | -------- | ----------------------------------------- |
+| Linear Regression       | 0.74 | 0.58     | Good baseline model                       |
+| Ridge Regression        | 0.73 | 0.59     | Slight improvement over Linear Regression |
+| Decision Tree Regressor | 0.52 | 0.78     | Best performing model                     |
