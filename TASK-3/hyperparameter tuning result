@@ -1,0 +1,11 @@
+GridSearchCV (5-fold CV, scoring='r2') searched over:
+
+max_depth: [5, 10, 15, 20]
+min_samples_split: [2, 5, 10]
+min_samples_leaf: [1, 2, 4]
+
+Best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}
+Tuned model test performance:
+
+RMSE: 0.6391
+R² Score: 0.6883
