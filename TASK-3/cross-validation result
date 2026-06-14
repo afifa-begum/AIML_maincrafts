@@ -1,0 +1,7 @@
+5-fold cross-validation was run on the untuned Decision Tree across the full dataset (cv=5, scoring='r2'):
+FoldR² Score 1 0.2709
+             2 0.4137
+             3 0.4391 
+             4 0.2357
+             5 0.4188
+Average CV R² = 0.3556
