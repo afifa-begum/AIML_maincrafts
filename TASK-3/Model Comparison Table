@@ -1,0 +1,5 @@
+| Model                           | RMSE  | R² Score |
+|---------------------------------|-------|----------|
+| Linear Regression               | 0.7456| 0.5758   |
+| Decision Tree (Before Tuning)  | 0.7037| 0.6221   |
+| Decision Tree (After Tuning)   | 0.6391| 0.6883   |
